@@ -23,5 +23,9 @@ function plusMinus(arr) {
       console.log(negativeSum)
       console.log(zerosSum)
 }
-
 plusMinus(array)
+
+//output
+// 0.500000
+// 0.333333
+// 0.16666666666666666
